@@ -41,3 +41,7 @@ flutter_exam.iml
 .fvm
 .fvmrc
 .vscode
+**/*.g.dart
+**/*.gr.dart
+
+**/*.freezed.dart
