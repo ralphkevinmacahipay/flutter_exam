@@ -36,3 +36,8 @@ windows
 .meta
 flutter_exam.iml
 .metadata
+
+# FVM Version Cache
+.fvm
+.fvmrc
+.vscode
