@@ -25,3 +25,14 @@ doc/api/
 
 .flutter-plugins
 .flutter-plugins-dependencies
+
+.idea
+android
+ios
+linux
+macos
+web
+windows
+.meta
+flutter_exam.iml
+.metadata
