@@ -45,3 +45,4 @@ flutter_exam.iml
 **/*.gr.dart
 
 **/*.freezed.dart
+.env

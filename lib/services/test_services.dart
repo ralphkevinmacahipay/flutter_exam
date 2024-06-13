@@ -8,7 +8,7 @@ part "test_services.g.dart";
 abstract class TestServices {
   factory TestServices(Dio dio, {String baseUrl}) = _TestServices;
 
-  @RestApi(baseUrl: "https://o7q6ka26qs232rmbtpbrxghy6u0vyrup.lambda-url.ap-southeast-1.on.aws")
+  @RestApi()
   @GET("/")
   Future<RandomStringDto> getRandomString();
 }

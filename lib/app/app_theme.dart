@@ -10,6 +10,6 @@ class AppTheme {
   ThemeData getTheme() => ThemeData(
           textTheme: const TextTheme(
         //
-        displaySmall: TextStyle(color: AppColors.black),
+        displaySmall: TextStyle(color: AppColors.black, fontSize: 25),
       ));
 }
